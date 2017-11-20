@@ -1,0 +1,142 @@
+root@raspberrypi:/home/pi# dumpe2fs /dev/mmcblk0p2
+dumpe2fs 1.42.12 (29-Aug-2014)
+Filesystem volume name:   <none>
+Last mounted on:          /
+Filesystem UUID:          202638e1-4ce4-45df-9a00-ad725c2537bb
+Filesystem magic number:  0xEF53
+Filesystem revision #:    1 (dynamic)
+Filesystem features:      has_journal ext_attr resize_inode dir_index filetype needs_recovery extent flex_bg sparse_super large_file uninit_bg dir_nlink extra_isize
+Filesystem flags:         signed_directory_hash 
+Default mount options:    user_xattr acl
+Filesystem state:         clean
+Errors behavior:          Continue
+Filesystem OS type:       Linux
+Inode count:              88528
+Block count:              342272
+Reserved block count:     17112
+Free blocks:              100392
+Free inodes:              53099
+First block:              0
+Block size:               4096
+Fragment size:            4096
+Reserved GDT blocks:      78
+Blocks per group:         32768
+Fragments per group:      32768
+Inodes per group:         8048
+Inode blocks per group:   503
+Flex block group size:    16
+Filesystem created:       Fri May 27 13:40:30 2016
+Last mount time:          Wed Jul 27 09:30:32 2016
+Last write time:          Thu Jan  1 01:00:05 1970
+Mount count:              6
+Maximum mount count:      -1
+Last checked:             Tue Jul 26 21:23:42 2016
+Check interval:           0 (<none>)
+Lifetime writes:          1616 MB
+Reserved blocks uid:      0 (user root)
+Reserved blocks gid:      0 (group root)
+First inode:              11
+Inode size:	          256
+Required extra isize:     28
+Desired extra isize:      28
+Journal inode:            8
+Default directory hash:   half_md4
+Directory Hash Seed:      c7b40ae7-8846-4b6c-b3fd-b0dccbf1568c
+Journal backup:           inode blocks
+Journal features:         journal_incompat_revoke
+Journal size:             32M
+Journal length:           8192
+Journal sequence:         0x00004fed
+Journal start:            4955
+
+
+Group 0: (Blocks 0-32767) [ITABLE_ZEROED]
+  Checksum 0xe472, unused inodes 0
+  Primary superblock at 0, Group descriptors at 1-1
+  Reserved GDT blocks at 2-79
+  Block bitmap at 80 (+80), Inode bitmap at 96 (+96)
+  Inode table at 112-614 (+112)
+  23908 free blocks, 0 free inodes, 992 directories
+  Free blocks: 8276-8331, 8916-32767
+  Free inodes: 
+Group 1: (Blocks 32768-65535) [ITABLE_ZEROED]
+  Checksum 0xa395, unused inodes 0
+  Backup superblock at 32768, Group descriptors at 32769-32769
+  Reserved GDT blocks at 32770-32847
+  Block bitmap at 81 (bg #0 + 81), Inode bitmap at 97 (bg #0 + 97)
+  Inode table at 615-1117 (bg #0 + 615)
+  1 free blocks, 2 free inodes, 988 directories
+  Free blocks: 35004
+  Free inodes: 15597, 15925
+Group 2: (Blocks 65536-98303) [ITABLE_ZEROED]
+  Checksum 0xd19f, unused inodes 0
+  Block bitmap at 82 (bg #0 + 82), Inode bitmap at 98 (bg #0 + 98)
+  Inode table at 1118-1620 (bg #0 + 1118)
+  254 free blocks, 174 free inodes, 425 directories
+  Free blocks: 92489, 92505, 92514, 92516-92519, 92555-92583, 92591-92607, 92832-92927, 92968-92994, 93000-93015, 93026-93071, 93080-93087, 93136-93143
+  Free inodes: 16666, 16670, 16673, 16677, 16696, 16714, 16720-16721, 16744-16745, 16752-16754, 16767-16769, 16805-16807, 16812-16814, 16836-16837, 16840-16841, 16843-16844, 16846-16847, 16849, 16853-16855, 16888-16889, 16894, 16929-16932, 16983-16984, 16990, 17007-17014, 17021-17023, 17041-17043, 17052, 17122-17123, 17140-17142, 17151-17156, 17170-17172, 17199-17201, 17206-17208, 17226-17227, 17232-17233, 17289-17291, 17297-17299, 17315-17317, 17319-17324, 17353, 17366, 17409-17411, 17421-17426, 17429-17432, 17447, 17449, 17468, 17472-17474, 17488-17492, 17500-17502, 17523-17524, 17529-17534, 17543-17545, 17559, 17563-17564, 17596-17599, 17623-17624, 17641-17642, 17651-17652, 17655-17656, 17727-17728, 17730, 17743, 17749-17750, 17787-17789, 17797-17799, 17973, 17975, 17978-17981, 18007-18009
+Group 3: (Blocks 98304-131071) [ITABLE_ZEROED]
+  Checksum 0xf420, unused inodes 0
+  Backup superblock at 98304, Group descriptors at 98305-98305
+  Reserved GDT blocks at 98306-98383
+  Block bitmap at 83 (bg #0 + 83), Inode bitmap at 99 (bg #0 + 99)
+  Inode table at 1621-2123 (bg #0 + 1621)
+  0 free blocks, 0 free inodes, 411 directories
+  Free blocks: 
+  Free inodes: 
+Group 4: (Blocks 131072-163839) [ITABLE_ZEROED]
+  Checksum 0x985a, unused inodes 4519
+  Block bitmap at 84 (bg #0 + 84), Inode bitmap at 100 (bg #0 + 100)
+  Inode table at 2124-2626 (bg #0 + 2124)
+  275 free blocks, 4651 free inodes, 124 directories, 4519 unused inodes
+  Free blocks: 154450, 160392-160420, 160440, 160444-160456, 161291-161486, 161528-161541, 161552-161560, 161666-161667, 161672-161673, 161676-161679, 161682, 161691, 161770, 163835
+  Free inodes: 33093-33100, 33125-33190, 33634-33681, 33686-33687, 33690-33693, 35706, 35711-35713, 35722-40240
+Group 5: (Blocks 163840-196607) [ITABLE_ZEROED]
+  Checksum 0x5f65, unused inodes 8029
+  Backup superblock at 163840, Group descriptors at 163841-163841
+  Reserved GDT blocks at 163842-163919
+  Block bitmap at 85 (bg #0 + 85), Inode bitmap at 101 (bg #0 + 101)
+  Inode table at 2627-3129 (bg #0 + 2627)
+  2019 free blocks, 8034 free inodes, 14 directories, 8029 unused inodes
+  Free blocks: 163920-163925, 163988-163991, 164014-164026, 164142-164143, 164225-164234, 164236-164239, 164256-164287, 164312-164319, 164401-164406, 164426-164483, 164501-164512, 164524-164570, 164572-164591, 164598-164601, 164608-164609, 164615-164617, 164634-164636, 164638-164639, 164706-164805, 164807-164857, 164871-164920, 164929, 164932-164935, 164983-164995, 165006, 165016-165036, 165054-165074, 165086-165305, 166341-166399, 166614-166660, 166728-166757, 166760-166763, 166814-166815, 166832-166848, 166850-166856, 166858-166864, 166866-166872, 166874-166875, 166896, 166904-166925, 166936, 166944-166966, 166968-166989, 167026-167030, 167032-167033, 167066-167067, 167072-167077, 167080-167083, 167111-167129, 167294-167315, 167321-167324, 167363-167365, 167367, 167376-167386, 167389, 167392-167409, 167416-167433, 167440-167447, 167570-167586, 167656-167659, 167768-167769, 167780, 167816-167847, 167855, 167866-167871, 167902, 167957-167974, 167997-168009, 168198-168199, 168226-168232, 168254-168272, 168292-168300, 168302-168314, 168316-168319, 168405-168420, 168620-168636, 168710-168759, 168839-168844, 168849-168850, 169077-169095, 169104-169153, 169191-169243, 169245-169348, 169350-169351, 169387, 169401, 169516-169561, 169575-169630, 169633-169680, 169682-169683, 169741-169753, 169755-169777, 169806, 169811-169819, 169842-169850, 169852-169859, 169870, 169872-169879, 170007-170026, 170072-170095, 170104-170107, 170119, 170169-170190, 170192-170193, 170313-170346, 170488-170494, 170496-170497, 170520-170526, 170528-170529, 170537-170548, 170551-170562, 170713-170726, 170728-170732, 170745, 170753-170754, 170851-170857, 170870-170876, 170955, 170957, 170959, 170962-170990, 170992-170995, 171035, 171048-171057
+  Free inodes: 40255-48288
+Group 6: (Blocks 196608-229375) [ITABLE_ZEROED]
+  Checksum 0x8daa, unused inodes 8046
+  Block bitmap at 86 (bg #0 + 86), Inode bitmap at 102 (bg #0 + 102)
+  Inode table at 3130-3632 (bg #0 + 3130)
+  1775 free blocks, 8046 free inodes, 2 directories, 8046 unused inodes
+  Free blocks: 205240-205520, 205522-205529, 220339, 220802-220803, 220808-220997, 221000-221007, 221024-221095, 225281-225791, 225793-226433, 229238-229240, 229244-229247, 229312-229332, 229343-229375
+  Free inodes: 48291-56336
+Group 7: (Blocks 229376-262143) [INODE_UNINIT, ITABLE_ZEROED]
+  Checksum 0x10cf, unused inodes 8048
+  Backup superblock at 229376, Group descriptors at 229377-229377
+  Reserved GDT blocks at 229378-229455
+  Block bitmap at 87 (bg #0 + 87), Inode bitmap at 103 (bg #0 + 103)
+  Inode table at 3633-4135 (bg #0 + 3633)
+  5388 free blocks, 8048 free inodes, 0 directories, 8048 unused inodes
+  Free blocks: 230962-231423, 257024-257027, 257031-257033, 257036-257538, 257542-258114, 258117-258560, 258565-259083, 259102-259103, 259105-259106, 259108-259583, 259591-260109, 260118-260664, 260669-261121, 261123-261167, 261290, 261292-261776, 261782, 261784-261861, 261867-261921, 261927-261931, 261933-262143
+  Free inodes: 56337-64384
+Group 8: (Blocks 262144-294911) [INODE_UNINIT, ITABLE_ZEROED]
+  Checksum 0x0f57, unused inodes 8048
+  Block bitmap at 88 (bg #0 + 88), Inode bitmap at 104 (bg #0 + 104)
+  Inode table at 4136-4638 (bg #0 + 4136)
+  19583 free blocks, 8048 free inodes, 0 directories, 8048 unused inodes
+  Free blocks: 262149-262152, 262154-262157, 267504-267506, 267545-267547, 267552, 267700-267711, 267773-267775, 267780-267787, 267794-267796, 267798-267808, 267825-267827, 267830-267876, 268139-268143, 268147-268287, 273699-273711, 273748-273823, 273888-273919, 273922, 273928, 273930-273938, 273940-273943, 273945-273951, 273953, 273955-273960, 273962-273967, 273970, 273986-273999, 274011-274175, 274388-274431, 274445, 274460, 274477, 274491, 274511, 274526, 274542, 274556, 274788-274943, 274961-275007, 275037-275455, 275457-275471, 275602-275967, 275969-275983, 276028-276479, 276982-277390, 277394, 277396, 277398, 277400-277401, 277403-277405, 277407, 277409-277423, 277435-277503, 277505-277519, 277543-278015, 278019, 278022-278527, 278549-279039, 279041-279551, 279553-280063, 280065-280575, 280577-281087, 281090-281599, 281601-282111, 282211-282623, 282625-283135, 283137-283647, 283649-284159, 284161-284671, 284673-285183, 285185-285695, 285708-286207, 286209-286719, 286721-287231, 287233-287743, 287745-288255, 288257-288767, 288769-289283, 289300-289429, 289431, 289433-289791, 289793-290303, 290488-290818, 290828-291839, 291842-292354, 292372-292865, 292867-293379, 293396-293887, 293889, 293892-294399, 294402-294911
+  Free inodes: 64385-72432
+Group 9: (Blocks 294912-327679) [INODE_UNINIT, ITABLE_ZEROED]
+  Checksum 0x8a62, unused inodes 8048
+  Backup superblock at 294912, Group descriptors at 294913-294913
+  Reserved GDT blocks at 294914-294991
+  Block bitmap at 89 (bg #0 + 89), Inode bitmap at 105 (bg #0 + 105)
+  Inode table at 4639-5141 (bg #0 + 4639)
+  32688 free blocks, 8048 free inodes, 0 directories, 8048 unused inodes
+  Free blocks: 294992-327679
+  Free inodes: 72433-80480
+Group 10: (Blocks 327680-342271) [INODE_UNINIT, ITABLE_ZEROED]
+  Checksum 0x2386, unused inodes 8048
+  Block bitmap at 8408 (bg #0 + 8408), Inode bitmap at 8409 (bg #0 + 8409)
+  Inode table at 8410-8912 (bg #0 + 8410)
+  14592 free blocks, 8048 free inodes, 0 directories, 8048 unused inodes
+  Free blocks: 327680-342271
+  Free inodes: 80481-88528
+root@raspberrypi:/home/pi# 

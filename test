@@ -1,0 +1,1656 @@
+TAKING PICTURES AND STARTING TRANSFERS
+
+Camera 192.168.1.1 is up. Capturing...
+2002-01-29T12:36:30+01:00\Taking picture....parameters: 192.168.1.1, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam1_MT20020129123630.jpg, 
+
+
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.2 is down
+Camera 192.168.1.3 is up. Capturing...
+2002-01-29T12:36:32+01:00\Taking picture....parameters: 192.168.1.3, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam3_MT20020129123632.jpg, 
+
+
+
+
+
+Camera 192.168.1.4 is up. Capturing...
+2002-01-29T12:36:32+01:00\Taking picture....parameters: 192.168.1.4, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam4_MT20020129123632.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam4_MT20020129121932.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.5 is up. Capturing...
+2002-01-29T12:36:35+01:00\Taking picture....parameters: 192.168.1.5, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam5_MT20020129123635.jpg, 
+
+
+
+
+
+Camera 192.168.1.6 is up. Capturing...
+2002-01-29T12:36:35+01:00\Taking picture....parameters: 192.168.1.6, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam6_MT20020129123635.jpg, 
+
+
+
+
+
+Camera 192.168.1.7 is up. Capturing...
+2002-01-29T12:36:36+01:00\Taking picture....parameters: 192.168.1.7, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam7_MT20020129123636.jpg, 
+
+
+
+
+
+Camera 192.168.1.8 is up. Capturing...
+2002-01-29T12:36:36+01:00\Taking picture....parameters: 192.168.1.8, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam8_MT20020129123636.jpg, 
+
+
+
+
+
+Camera 192.168.1.9 is up. Capturing...
+2002-01-29T12:36:37+01:00\Taking picture....parameters: 192.168.1.9, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam9_MT20020129123637.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam9_MT20020129121938.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.10 is up. Capturing...
+2002-01-29T12:36:39+01:00\Taking picture....parameters: 192.168.1.10, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam10_MT20020129123639.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam10_MT20020129121940.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.11 is up. Capturing...
+2002-01-29T12:36:41+01:00\Taking picture....parameters: 192.168.1.11, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam11_MT20020129123641.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam11_MT20020129121943.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.12 is up. Capturing...
+2002-01-29T12:36:43+01:00\Taking picture....parameters: 192.168.1.12, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam12_MT20020129123643.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam12_MT20020129121945.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.13 is up. Capturing...
+2002-01-29T12:36:45+01:00\Taking picture....parameters: 192.168.1.13, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam13_MT20020129123645.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam13_MT20020129121947.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.14 is up. Capturing...
+2002-01-29T12:36:47+01:00\Taking picture....parameters: 192.168.1.14, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam14_MT20020129123647.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam14_MT20020129121949.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.15 is up. Capturing...
+2002-01-29T12:36:49+01:00\Taking picture....parameters: 192.168.1.15, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam15_MT20020129123649.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam15_MT20020129121952.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.16 is up. Capturing...
+2002-01-29T12:36:51+01:00\Taking picture....parameters: 192.168.1.16, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam16_MT20020129123651.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam16_MT20020129121954.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.17 is up. Capturing...
+2002-01-29T12:36:53+01:00\Taking picture....parameters: 192.168.1.17, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam17_MT20020129123653.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam17_MT20020129121956.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.18 is up. Capturing...
+2002-01-29T12:36:55+01:00\Taking picture....parameters: 192.168.1.18, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam18_MT20020129123655.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam18_MT20020129121959.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.19 is up. Capturing...
+2002-01-29T12:36:57+01:00\Taking picture....parameters: 192.168.1.19, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam19_MT20020129123657.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam19_MT20020129122001.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.20 is up. Capturing...
+2002-01-29T12:36:59+01:00\Taking picture....parameters: 192.168.1.20, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam20_MT20020129123659.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam20_MT20020129122003.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.21 is up. Capturing...
+2002-01-29T12:37:02+01:00\Taking picture....parameters: 192.168.1.21, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam21_MT20020129123702.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam21_MT20020129122006.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.22 is up. Capturing...
+2002-01-29T12:37:04+01:00\Taking picture....parameters: 192.168.1.22, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam22_MT20020129123704.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam22_MT20020129122008.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.23 is up. Capturing...
+2002-01-29T12:37:06+01:00\Taking picture....parameters: 192.168.1.23, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam23_MT20020129123706.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam23_MT20020129122010.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.24 is up. Capturing...
+2002-01-29T12:37:08+01:00\Taking picture....parameters: 192.168.1.24, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam24_MT20020129123708.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam24_MT20020129122012.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.25 is down
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.26 is down
+Camera 192.168.1.27 is up. Capturing...
+2002-01-29T12:37:12+01:00\Taking picture....parameters: 192.168.1.27, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam27_MT20020129123712.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam27_MT20020129122016.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.28 is up. Capturing...
+2002-01-29T12:37:14+01:00\Taking picture....parameters: 192.168.1.28, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam28_MT20020129123714.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam28_MT20020129122019.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.29 is up. Capturing...
+2002-01-29T12:37:15+01:00\Taking picture....parameters: 192.168.1.29, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam29_MT20020129123715.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam29_MT20020129122021.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.30 is up. Capturing...
+2002-01-29T12:37:17+01:00\Taking picture....parameters: 192.168.1.30, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam30_MT20020129123717.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam30_MT20020129122023.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.31 is up. Capturing...
+2002-01-29T12:37:19+01:00\Taking picture....parameters: 192.168.1.31, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam31_MT20020129123719.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam31_MT20020129122025.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.32 is up. Capturing...
+2002-01-29T12:37:21+01:00\Taking picture....parameters: 192.168.1.32, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam32_MT20020129123721.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam32_MT20020129122027.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.33 is up. Capturing...
+2002-01-29T12:37:23+01:00\Taking picture....parameters: 192.168.1.33, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam33_MT20020129123723.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam33_MT20020129122030.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.34 is up. Capturing...
+2002-01-29T12:37:25+01:00\Taking picture....parameters: 192.168.1.34, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam34_MT20020129123725.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam34_MT20020129122032.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.35 is up. Capturing...
+2002-01-29T12:37:27+01:00\Taking picture....parameters: 192.168.1.35, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam35_MT20020129123727.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam35_MT20020129122034.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.36 is up. Capturing...
+2002-01-29T12:37:29+01:00\Taking picture....parameters: 192.168.1.36, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam36_MT20020129123729.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam36_MT20020129122036.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.37 is up. Capturing...
+2002-01-29T12:37:31+01:00\Taking picture....parameters: 192.168.1.37, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam37_MT20020129123731.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam37_MT20020129122038.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.38 is down
+Camera 192.168.1.39 is up. Capturing...
+2002-01-29T12:37:34+01:00\Taking picture....parameters: 192.168.1.39, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam39_MT20020129123734.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam39_MT20020129122041.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.40 is up. Capturing...
+2002-01-29T12:37:36+01:00\Taking picture....parameters: 192.168.1.40, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam40_MT20020129123736.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam40_MT20020129122044.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.41 is up. Capturing...
+2002-01-29T12:37:38+01:00\Taking picture....parameters: 192.168.1.41, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam41_MT20020129123738.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam41_MT20020129122046.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.42 is up. Capturing...
+2002-01-29T12:37:40+01:00\Taking picture....parameters: 192.168.1.42, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam42_MT20020129123740.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam42_MT20020129122048.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.43 is up. Capturing...
+2002-01-29T12:37:42+01:00\Taking picture....parameters: 192.168.1.43, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam43_MT20020129123742.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam43_MT20020129122050.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.44 is up. Capturing...
+2002-01-29T12:37:44+01:00\Taking picture....parameters: 192.168.1.44, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam44_MT20020129123744.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam44_MT20020129122053.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.45 is up. Capturing...
+2002-01-29T12:37:46+01:00\Taking picture....parameters: 192.168.1.45, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam45_MT20020129123746.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam45_MT20020129122055.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.46 is up. Capturing...
+2002-01-29T12:37:48+01:00\Taking picture....parameters: 192.168.1.46, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam46_MT20020129123748.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam46_MT20020129122057.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.47 is up. Capturing...
+2002-01-29T12:37:51+01:00\Taking picture....parameters: 192.168.1.47, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam47_MT20020129123751.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam47_MT20020129122059.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.48 is up. Capturing...
+2002-01-29T12:37:53+01:00\Taking picture....parameters: 192.168.1.48, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam48_MT20020129123753.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam48_MT20020129122102.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.49 is up. Capturing...
+2002-01-29T12:37:55+01:00\Taking picture....parameters: 192.168.1.49, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam49_MT20020129123755.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam49_MT20020129122104.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.50 is down
+Camera 192.168.1.51 is up. Capturing...
+2002-01-29T12:37:58+01:00\Taking picture....parameters: 192.168.1.51, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam51_MT20020129123758.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam51_MT20020129122107.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.52 is up. Capturing...
+2002-01-29T12:38:00+01:00\Taking picture....parameters: 192.168.1.52, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam52_MT20020129123800.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam52_MT20020129122109.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.53 is up. Capturing...
+2002-01-29T12:38:02+01:00\Taking picture....parameters: 192.168.1.53, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam53_MT20020129123802.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam53_MT20020129122112.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.54 is up. Capturing...
+2002-01-29T12:38:04+01:00\Taking picture....parameters: 192.168.1.54, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam54_MT20020129123804.jpg, 
+
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.55 is down
+Camera 192.168.1.56 is up. Capturing...
+2002-01-29T12:38:06+01:00\Taking picture....parameters: 192.168.1.56, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam56_MT20020129123806.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam56_MT20020129122116.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.57 is up. Capturing...
+2002-01-29T12:38:08+01:00\Taking picture....parameters: 192.168.1.57, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam57_MT20020129123808.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam57_MT20020129122118.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.58 is up. Capturing...
+2002-01-29T12:38:10+01:00\Taking picture....parameters: 192.168.1.58, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam58_MT20020129123810.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam58_MT20020129122121.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.59 is up. Capturing...
+2002-01-29T12:38:12+01:00\Taking picture....parameters: 192.168.1.59, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam59_MT20020129123812.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam59_MT20020129122123.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.60 is up. Capturing...
+2002-01-29T12:38:14+01:00\Taking picture....parameters: 192.168.1.60, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam60_MT20020129123814.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam60_MT20020129122125.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.61 is up. Capturing...
+2002-01-29T12:38:16+01:00\Taking picture....parameters: 192.168.1.61, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam61_MT20020129123816.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam61_MT20020129122127.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.62 is up. Capturing...
+2002-01-29T12:38:19+01:00\Taking picture....parameters: 192.168.1.62, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam62_MT20020129123819.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam62_MT20020129122130.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.63 is down
+Camera 192.168.1.64 is up. Capturing...
+2002-01-29T12:38:22+01:00\Taking picture....parameters: 192.168.1.64, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam64_MT20020129123822.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam64_MT20020129122133.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.65 is up. Capturing...
+2002-01-29T12:38:24+01:00\Taking picture....parameters: 192.168.1.65, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam65_MT20020129123824.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam65_MT20020129122135.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.66 is up. Capturing...
+2002-01-29T12:38:26+01:00\Taking picture....parameters: 192.168.1.66, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam66_MT20020129123826.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam66_MT20020129122137.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.67 is up. Capturing...
+2002-01-29T12:38:28+01:00\Taking picture....parameters: 192.168.1.67, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam67_MT20020129123828.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam67_MT20020129122140.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.68 is up. Capturing...
+2002-01-29T12:38:30+01:00\Taking picture....parameters: 192.168.1.68, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam68_MT20020129123830.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam68_MT20020129122142.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.69 is up. Capturing...
+2002-01-29T12:38:32+01:00\Taking picture....parameters: 192.168.1.69, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam69_MT20020129123832.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam69_MT20020129122144.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.70 is up. Capturing...
+2002-01-29T12:38:34+01:00\Taking picture....parameters: 192.168.1.70, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam70_MT20020129123834.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam70_MT20020129122146.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.71 is down
+Camera 192.168.1.72 is up. Capturing...
+2002-01-29T12:38:37+01:00\Taking picture....parameters: 192.168.1.72, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam72_MT20020129123837.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam72_MT20020129122150.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.73 is up. Capturing...
+2002-01-29T12:38:40+01:00\Taking picture....parameters: 192.168.1.73, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam73_MT20020129123840.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam73_MT20020129122152.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.74 is up. Capturing...
+2002-01-29T12:38:42+01:00\Taking picture....parameters: 192.168.1.74, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam74_MT20020129123842.jpg, 
+
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.75 is up. Capturing...
+2002-01-29T12:38:43+01:00\Taking picture....parameters: 192.168.1.75, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam75_MT20020129123843.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam75_MT20020129122156.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.76 is up. Capturing...
+2002-01-29T12:38:45+01:00\Taking picture....parameters: 192.168.1.76, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam76_MT20020129123845.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam76_MT20020129122159.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.77 is up. Capturing...
+2002-01-29T12:38:47+01:00\Taking picture....parameters: 192.168.1.77, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam77_MT20020129123847.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam77_MT20020129122201.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.78 is up. Capturing...
+2002-01-29T12:38:49+01:00\Taking picture....parameters: 192.168.1.78, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam78_MT20020129123849.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam78_MT20020129122203.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.79 is up. Capturing...
+2002-01-29T12:38:51+01:00\Taking picture....parameters: 192.168.1.79, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam79_MT20020129123851.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam79_MT20020129122206.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.80 is up. Capturing...
+2002-01-29T12:38:53+01:00\Taking picture....parameters: 192.168.1.80, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam80_MT20020129123853.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam80_MT20020129122208.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.81 is up. Capturing...
+2002-01-29T12:38:55+01:00\Taking picture....parameters: 192.168.1.81, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam81_MT20020129123855.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam81_MT20020129122210.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.82 is up. Capturing...
+2002-01-29T12:38:58+01:00\Taking picture....parameters: 192.168.1.82, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam82_MT20020129123858.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam82_MT20020129122212.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.83 is up. Capturing...
+2002-01-29T12:39:00+01:00\Taking picture....parameters: 192.168.1.83, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam83_MT20020129123900.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam83_MT20020129122215.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.84 is up. Capturing...
+2002-01-29T12:39:02+01:00\Taking picture....parameters: 192.168.1.84, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam84_MT20020129123902.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam84_MT20020129122217.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.85 is up. Capturing...
+2002-01-29T12:39:04+01:00\Taking picture....parameters: 192.168.1.85, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam85_MT20020129123904.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam85_MT20020129122219.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.86 is up. Capturing...
+2002-01-29T12:39:06+01:00\Taking picture....parameters: 192.168.1.86, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam86_MT20020129123906.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam86_MT20020129122222.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.87 is up. Capturing...
+2002-01-29T12:39:08+01:00\Taking picture....parameters: 192.168.1.87, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam87_MT20020129123908.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam87_MT20020129122224.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.88 is up. Capturing...
+2002-01-29T12:39:10+01:00\Taking picture....parameters: 192.168.1.88, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam88_MT20020129123910.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam88_MT20020129122226.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.89 is up. Capturing...
+2002-01-29T12:39:12+01:00\Taking picture....parameters: 192.168.1.89, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam89_MT20020129123912.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam89_MT20020129122229.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.90 is up. Capturing...
+2002-01-29T12:39:14+01:00\Taking picture....parameters: 192.168.1.90, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam90_MT20020129123914.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam90_MT20020129122231.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.91 is up. Capturing...
+2002-01-29T12:39:17+01:00\Taking picture....parameters: 192.168.1.91, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam91_MT20020129123917.jpg, 
+
+
+
+
+
+Camera 192.168.1.92 is up. Capturing...
+2002-01-29T12:39:17+01:00\Taking picture....parameters: 192.168.1.92, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam92_MT20020129123917.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam92_MT20020129122233.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.93 is up. Capturing...
+2002-01-29T12:39:19+01:00\Taking picture....parameters: 192.168.1.93, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam93_MT20020129123919.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam93_MT20020129122236.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.94 is up. Capturing...
+2002-01-29T12:39:21+01:00\Taking picture....parameters: 192.168.1.94, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam94_MT20020129123921.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam94_MT20020129122238.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.95 is down
+Camera 192.168.1.96 is up. Capturing...
+2002-01-29T12:39:24+01:00\Taking picture....parameters: 192.168.1.96, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam96_MT20020129123924.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam96_MT20020129122241.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.97 is up. Capturing...
+2002-01-29T12:39:26+01:00\Taking picture....parameters: 192.168.1.97, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam97_MT20020129123926.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam97_MT20020129122244.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.98 is up. Capturing...
+2002-01-29T12:39:28+01:00\Taking picture....parameters: 192.168.1.98, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam98_MT20020129123928.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam98_MT20020129122246.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.99 is up. Capturing...
+2002-01-29T12:39:30+01:00\Taking picture....parameters: 192.168.1.99, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam99_MT20020129123930.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam99_MT20020129122248.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.100 is up. Capturing...
+2002-01-29T12:39:32+01:00\Taking picture....parameters: 192.168.1.100, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam100_MT20020129123932.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam100_MT20020129122251.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.101 is up. Capturing...
+2002-01-29T12:39:34+01:00\Taking picture....parameters: 192.168.1.101, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam101_MT20020129123934.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam101_MT20020129122253.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.102 is up. Capturing...
+2002-01-29T12:39:37+01:00\Taking picture....parameters: 192.168.1.102, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam102_MT20020129123937.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam102_MT20020129122255.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.103 is up. Capturing...
+2002-01-29T12:39:39+01:00\Taking picture....parameters: 192.168.1.103, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam103_MT20020129123939.jpg, 
+
+
+
+
+
+Camera 192.168.1.104 is up. Capturing...
+2002-01-29T12:39:39+01:00\Taking picture....parameters: 192.168.1.104, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam104_MT20020129123939.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam104_MT20020129122257.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.105 is up. Capturing...
+2002-01-29T12:39:41+01:00\Taking picture....parameters: 192.168.1.105, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam105_MT20020129123941.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam105_MT20020129122300.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.106 is up. Capturing...
+2002-01-29T12:39:43+01:00\Taking picture....parameters: 192.168.1.106, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam106_MT20020129123943.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam106_MT20020129122302.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.107 is up. Capturing...
+2002-01-29T12:39:45+01:00\Taking picture....parameters: 192.168.1.107, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam107_MT20020129123945.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam107_MT20020129122304.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.108 is up. Capturing...
+2002-01-29T12:39:47+01:00\Taking picture....parameters: 192.168.1.108, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam108_MT20020129123947.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam108_MT20020129122306.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.109 is up. Capturing...
+2002-01-29T12:39:49+01:00\Taking picture....parameters: 192.168.1.109, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam109_MT20020129123949.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam109_MT20020129122309.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.110 is up. Capturing...
+2002-01-29T12:39:51+01:00\Taking picture....parameters: 192.168.1.110, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam110_MT20020129123951.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam110_MT20020129122311.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.111 is up. Capturing...
+2002-01-29T12:39:53+01:00\Taking picture....parameters: 192.168.1.111, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam111_MT20020129123953.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam111_MT20020129122314.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.112 is up. Capturing...
+2002-01-29T12:39:55+01:00\Taking picture....parameters: 192.168.1.112, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam112_MT20020129123955.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam112_MT20020129122316.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.113 is up. Capturing...
+2002-01-29T12:39:57+01:00\Taking picture....parameters: 192.168.1.113, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam113_MT20020129123957.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam113_MT20020129122318.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.114 is up. Capturing...
+2002-01-29T12:39:59+01:00\Taking picture....parameters: 192.168.1.114, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam114_MT20020129123959.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam114_MT20020129122320.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.115 is up. Capturing...
+2002-01-29T12:40:02+01:00\Taking picture....parameters: 192.168.1.115, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam115_MT20020129124002.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam115_MT20020129122322.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.116 is up. Capturing...
+2002-01-29T12:40:04+01:00\Taking picture....parameters: 192.168.1.116, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam116_MT20020129124004.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam116_MT20020129122325.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.117 is up. Capturing...
+2002-01-29T12:40:06+01:00\Taking picture....parameters: 192.168.1.117, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam117_MT20020129124006.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam117_MT20020129122327.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.118 is up. Capturing...
+2002-01-29T12:40:08+01:00\Taking picture....parameters: 192.168.1.118, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam118_MT20020129124008.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam118_MT20020129122329.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.119 is down
+Camera 192.168.1.120 is up. Capturing...
+2002-01-29T12:40:10+01:00\Taking picture....parameters: 192.168.1.120, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam120_MT20020129124010.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam120_MT20020129122332.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.121 is up. Capturing...
+2002-01-29T12:40:12+01:00\Taking picture....parameters: 192.168.1.121, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam121_MT20020129124012.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam121_MT20020129122334.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.122 is up. Capturing...
+2002-01-29T12:40:14+01:00\Taking picture....parameters: 192.168.1.122, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam122_MT20020129124014.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam122_MT20020129122337.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.123 is up. Capturing...
+2002-01-29T12:40:16+01:00\Taking picture....parameters: 192.168.1.123, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam123_MT20020129124016.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam123_MT20020129122339.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.124 is up. Capturing...
+2002-01-29T12:40:18+01:00\Taking picture....parameters: 192.168.1.124, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam124_MT20020129124018.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam124_MT20020129122341.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.125 is up. Capturing...
+2002-01-29T12:40:20+01:00\Taking picture....parameters: 192.168.1.125, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam125_MT20020129124020.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam125_MT20020129122343.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.126 is up. Capturing...
+2002-01-29T12:40:22+01:00\Taking picture....parameters: 192.168.1.126, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam126_MT20020129124022.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam126_MT20020129122345.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.127 is up. Capturing...
+2002-01-29T12:40:24+01:00\Taking picture....parameters: 192.168.1.127, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam127_MT20020129124024.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam127_MT20020129122347.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.128 is up. Capturing...
+2002-01-29T12:40:26+01:00\Taking picture....parameters: 192.168.1.128, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam128_MT20020129124026.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam128_MT20020129122350.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.129 is up. Capturing...
+2002-01-29T12:40:28+01:00\Taking picture....parameters: 192.168.1.129, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam129_MT20020129124028.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam129_MT20020129122352.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.130 is down
+Camera 192.168.1.131 is up. Capturing...
+2002-01-29T12:40:31+01:00\Taking picture....parameters: 192.168.1.131, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam131_MT20020129124031.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam131_MT20020129122355.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.132 is up. Capturing...
+2002-01-29T12:40:33+01:00\Taking picture....parameters: 192.168.1.132, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam132_MT20020129124033.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam132_MT20020129122357.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.133 is up. Capturing...
+2002-01-29T12:40:35+01:00\Taking picture....parameters: 192.168.1.133, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam133_MT20020129124035.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam133_MT20020129122359.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.134 is up. Capturing...
+2002-01-29T12:40:37+01:00\Taking picture....parameters: 192.168.1.134, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam134_MT20020129124037.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam134_MT20020129122402.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.135 is down
+Camera 192.168.1.136 is up. Capturing...
+2002-01-29T12:40:40+01:00\Taking picture....parameters: 192.168.1.136, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam136_MT20020129124040.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam136_MT20020129122405.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.137 is up. Capturing...
+2002-01-29T12:40:42+01:00\Taking picture....parameters: 192.168.1.137, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam137_MT20020129124042.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam137_MT20020129122407.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.138 is up. Capturing...
+2002-01-29T12:40:44+01:00\Taking picture....parameters: 192.168.1.138, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam138_MT20020129124044.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam138_MT20020129122409.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.139 is up. Capturing...
+2002-01-29T12:40:46+01:00\Taking picture....parameters: 192.168.1.139, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam139_MT20020129124046.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam139_MT20020129122412.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.140 is up. Capturing...
+2002-01-29T12:40:48+01:00\Taking picture....parameters: 192.168.1.140, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam140_MT20020129124048.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam140_MT20020129122414.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.141 is up. Capturing...
+2002-01-29T12:40:50+01:00\Taking picture....parameters: 192.168.1.141, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam141_MT20020129124050.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam141_MT20020129122416.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.142 is up. Capturing...
+2002-01-29T12:40:52+01:00\Taking picture....parameters: 192.168.1.142, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam142_MT20020129124052.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam142_MT20020129122419.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.143 is up. Capturing...
+2002-01-29T12:40:54+01:00\Taking picture....parameters: 192.168.1.143, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam143_MT20020129124054.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam143_MT20020129122422.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.144 is down
+Camera 192.168.1.145 is up. Capturing...
+2002-01-29T12:40:58+01:00\Taking picture....parameters: 192.168.1.145, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam145_MT20020129124058.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam145_MT20020129122425.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.146 is up. Capturing...
+2002-01-29T12:41:00+01:00\Taking picture....parameters: 192.168.1.146, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam146_MT20020129124100.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam146_MT20020129122428.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.147 is up. Capturing...
+2002-01-29T12:41:02+01:00\Taking picture....parameters: 192.168.1.147, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam147_MT20020129124102.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam147_MT20020129122430.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.148 is up. Capturing...
+2002-01-29T12:41:04+01:00\Taking picture....parameters: 192.168.1.148, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam148_MT20020129124104.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam148_MT20020129122432.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.149 is up. Capturing...
+2002-01-29T12:41:06+01:00\Taking picture....parameters: 192.168.1.149, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam149_MT20020129124106.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam149_MT20020129122435.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.150 is up. Capturing...
+2002-01-29T12:41:08+01:00\Taking picture....parameters: 192.168.1.150, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam150_MT20020129124108.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam150_MT20020129122437.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.151 is up. Capturing...
+2002-01-29T12:41:10+01:00\Taking picture....parameters: 192.168.1.151, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam151_MT20020129124110.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam151_MT20020129122439.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.152 is up. Capturing...
+2002-01-29T12:41:12+01:00\Taking picture....parameters: 192.168.1.152, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam152_MT20020129124112.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam152_MT20020129122442.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.153 is up. Capturing...
+2002-01-29T12:41:14+01:00\Taking picture....parameters: 192.168.1.153, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam153_MT20020129124114.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam153_MT20020129122444.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.154 is up. Capturing...
+2002-01-29T12:41:16+01:00\Taking picture....parameters: 192.168.1.154, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam154_MT20020129124116.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam154_MT20020129122446.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.155 is up. Capturing...
+2002-01-29T12:41:19+01:00\Taking picture....parameters: 192.168.1.155, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam155_MT20020129124119.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam155_MT20020129122449.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.156 is up. Capturing...
+2002-01-29T12:41:21+01:00\Taking picture....parameters: 192.168.1.156, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam156_MT20020129124121.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam156_MT20020129122451.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.157 is down
+Camera 192.168.1.158 is up. Capturing...
+2002-01-29T12:41:24+01:00\Taking picture....parameters: 192.168.1.158, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam158_MT20020129124124.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam158_MT20020129122454.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.159 is up. Capturing...
+2002-01-29T12:41:26+01:00\Taking picture....parameters: 192.168.1.159, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam159_MT20020129124126.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam159_MT20020129122457.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.160 is up. Capturing...
+2002-01-29T12:41:28+01:00\Taking picture....parameters: 192.168.1.160, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam160_MT20020129124128.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam160_MT20020129122459.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+WARNING! - The camera 192.168.1.161 is down
+Camera 192.168.1.162 is up. Capturing...
+2002-01-29T12:41:31+01:00\Taking picture....parameters: 192.168.1.162, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam162_MT20020129124131.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam162_MT20020129122503.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.163 is up. Capturing...
+2002-01-29T12:41:33+01:00\Taking picture....parameters: 192.168.1.163, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam163_MT20020129124133.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam163_MT20020129122505.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.164 is up. Capturing...
+2002-01-29T12:41:35+01:00\Taking picture....parameters: 192.168.1.164, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam164_MT20020129124135.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam164_MT20020129122507.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.165 is up. Capturing...
+2002-01-29T12:41:37+01:00\Taking picture....parameters: 192.168.1.165, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam165_MT20020129124137.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam165_MT20020129122510.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.166 is up. Capturing...
+2002-01-29T12:41:39+01:00\Taking picture....parameters: 192.168.1.166, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam166_MT20020129124139.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam166_MT20020129122512.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.167 is up. Capturing...
+2002-01-29T12:41:42+01:00\Taking picture....parameters: 192.168.1.167, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam167_MT20020129124142.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam167_MT20020129122514.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.168 is up. Capturing...
+2002-01-29T12:41:44+01:00\Taking picture....parameters: 192.168.1.168, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam168_MT20020129124144.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam168_MT20020129122517.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.169 is up. Capturing...
+2002-01-29T12:41:46+01:00\Taking picture....parameters: 192.168.1.169, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam169_MT20020129124146.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam169_MT20020129122519.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.170 is up. Capturing...
+2002-01-29T12:41:48+01:00\Taking picture....parameters: 192.168.1.170, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam170_MT20020129124148.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam170_MT20020129122521.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.171 is up. Capturing...
+2002-01-29T12:41:50+01:00\Taking picture....parameters: 192.168.1.171, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam171_MT20020129124150.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam171_MT20020129122524.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.172 is up. Capturing...
+2002-01-29T12:41:52+01:00\Taking picture....parameters: 192.168.1.172, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam172_MT20020129124152.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam172_MT20020129122526.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.173 is up. Capturing...
+2002-01-29T12:41:54+01:00\Taking picture....parameters: 192.168.1.173, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam173_MT20020129124154.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam173_MT20020129122529.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.174 is up. Capturing...
+2002-01-29T12:41:57+01:00\Taking picture....parameters: 192.168.1.174, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam174_MT20020129124157.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam174_MT20020129122531.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.175 is up. Capturing...
+2002-01-29T12:41:59+01:00\Taking picture....parameters: 192.168.1.175, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam175_MT20020129124159.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam175_MT20020129122533.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.176 is up. Capturing...
+2002-01-29T12:42:01+01:00\Taking picture....parameters: 192.168.1.176, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam176_MT20020129124201.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam176_MT20020129122536.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.177 is up. Capturing...
+2002-01-29T12:42:03+01:00\Taking picture....parameters: 192.168.1.177, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam177_MT20020129124203.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam177_MT20020129122538.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.178 is up. Capturing...
+2002-01-29T12:42:05+01:00\Taking picture....parameters: 192.168.1.178, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam178_MT20020129124205.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam178_MT20020129122540.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.179 is up. Capturing...
+2002-01-29T12:42:07+01:00\Taking picture....parameters: 192.168.1.179, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam179_MT20020129124207.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam179_MT20020129122543.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
+Camera 192.168.1.180 is up. Capturing...
+2002-01-29T12:42:09+01:00\Taking picture....parameters: 192.168.1.180, --nopreview --width 2560 --height 1320 -t 1 -e jpg -o /tmp/camera_jpg/Cam180_MT20020129124209.jpg, 
+
+removed ‘/tmp/camera_jpg/Cam180_MT20020129122545.jpg’
+removed directory: ‘/tmp/camera_jpg’
+
+mkdir: created directory ‘/tmp/camera_jpg’
+
+
+
